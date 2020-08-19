@@ -13,14 +13,15 @@ RemindFeedback 어플리케이션은 일상을 살아가면서 주변에서 받�
 - 회원가입 성공시 자동로그인
 
 ### Flex Drawer
-![flex_drawer](https://user-images.githubusercontent.com/46639812/90668905-b8624180-e28b-11ea-95a4-b1160d569c74.gif)
+![flex](https://user-images.githubusercontent.com/46639812/90669485-b482ef00-e28c-11ea-99a7-83f4372695bf.gif)
 
 - 커스텀 네비게이션 드로어
 - 개인정보와 각종 메뉴 표시
 
-### 프로필 사진 변경
+### 프로필 변경
 ![프사변경](https://user-images.githubusercontent.com/46639812/90669237-43dbd280-e28c-11ea-8adc-3c2715564b80.gif)
-
+![modify_profile](https://user-images.githubusercontent.com/46639812/90669688-fc097b00-e28c-11ea-87de-853d775b7221.gif)
 - 앨범 및 카메라 컨트롤
 - 사진 선택하고 이미지 Crop
 - 이미지 크기 resizing
+- 닉네임 및 상태메세지 데이터 수정
