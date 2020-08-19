@@ -1,6 +1,12 @@
 # remindfeedback_android
 RemindFeedback 어플리케이션은 일상을 살아가면서 주변에서 받은 피드백을 등록하고, 고쳐나가는 과정을 글과 사진의 형태로 기록하며, 조언자를 등록해 그 과정에 대해서 계속해서 다시 피드백을 받을 수 있습니다.
 
+### 유투브 링크
+https://www.youtube.com/watch?v=tq7LZzu04h0&t=1s
+
+### PlayStore 주소
+https://play.google.com/store/apps/details?id=com.avon.remindfeedback&hl=en_US
+
 ##기능
 
 ### 회원가입
@@ -75,3 +81,5 @@ RemindFeedback 어플리케이션은 일상을 살아가면서 주변에서 받�
 - 회원탈퇴
 - 각종 CRUD
 
+
+![image](https://user-images.githubusercontent.com/46639812/90673512-d7b09d00-e292-11ea-9729-1d821d3003a3.png)
